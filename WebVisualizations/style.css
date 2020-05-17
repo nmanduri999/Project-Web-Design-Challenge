@@ -1,0 +1,32 @@
+
+body{
+    background-color: #EDEDED; 
+  }
+h3, h5 {
+    color:#20c997;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+  }
+img {
+  width: 100%  ;
+  height: 100%  ;
+  }
+
+.box {
+  margin-top: 60px; 
+  margin-bottom: 60px; 
+  padding: 10px 20px 20px; 
+  background-color: white; }
+.navbar{
+  background-color: #20c997 !important;
+   } 
+@media (max-width:460px){
+.navbar-brand{
+  width: 100%;
+  margin-left: 0px;
+}
+}
+.my-img {
+   border:2px solid #20c997;
+}
+
